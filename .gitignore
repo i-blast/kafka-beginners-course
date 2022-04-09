@@ -3,6 +3,7 @@
 *.iws
 *.iml
 *.ipr
+**/out/
 
 ### Gradle ###
 .gradle
@@ -10,7 +11,3 @@
 !src/**/build/
 !gradle-wrapper.jar
 !gradle-wrapper.properties
-
-###
-/kafka-basics/build/
-/kafka-basics/out/
